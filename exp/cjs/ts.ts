@@ -1,3 +1,7 @@
+/**
+ * * Run this file with "ts-node-esm ts.ts"
+ * import ts library in a typescript file within an Commonjs package
+ */
 import indexCJS from "ts-cjs";
 console.log(indexCJS);
 

@@ -1,4 +1,6 @@
 /**
+ * * Run this file with "ts-node-esm ts.ts"
+ * 
  * import ts library in a typescript file within an ESM package
  * For TypeScript to work in an ESM package, have to set the following in tsconfig.json
  * "module": "es2022"
