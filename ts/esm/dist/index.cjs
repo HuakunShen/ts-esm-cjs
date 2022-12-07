@@ -1,8 +1,8 @@
 'use strict';
 
-// index.ts
-var esm_default = "ts-esm-index (cjs version)";
+// src/index.ts
+var src_default = "ts-esm-index (cjs version)";
 
-module.exports = esm_default;
+module.exports = src_default;
 //# sourceMappingURL=out.js.map
 //# sourceMappingURL=index.cjs.map

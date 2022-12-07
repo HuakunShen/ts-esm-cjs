@@ -1,0 +1,8 @@
+{
+    "name": "ts-cjs/core",
+    "type": "module",
+    "main": "../dist/core.js",
+    "module": "../dist/core.mjs",
+    "types": "../dist/core.d.ts",
+    "sideEffects": false
+  }

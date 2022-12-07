@@ -1,4 +1,4 @@
-// core.ts
+// src/core.ts
 var core_default = "ts-esm-core (mjs version)";
 
 export { core_default as default };

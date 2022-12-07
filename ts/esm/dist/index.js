@@ -1,6 +1,6 @@
-// index.ts
-var esm_default = "ts-esm-index (mjs version)";
+// src/index.ts
+var src_default = "ts-esm-index (mjs version)";
 
-export { esm_default as default };
+export { src_default as default };
 //# sourceMappingURL=out.js.map
 //# sourceMappingURL=index.js.map

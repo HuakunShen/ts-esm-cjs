@@ -1,6 +1,6 @@
 'use strict';
 
-// core.ts
+// src/core.ts
 var core_default = "ts-esm-core (cjs version)";
 
 module.exports = core_default;

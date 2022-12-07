@@ -1,1 +1,1 @@
-{"version":3,"sources":["../core.ts"],"names":[],"mappings":";AAAA,IAAO,eAAQ","sourcesContent":["export default \"ts-cjs-core\";\n"]}
+{"version":3,"sources":["../src/core.ts"],"names":[],"mappings":";AAAA,IAAO,eAAQ","sourcesContent":["export default \"ts-cjs-core\";\n"]}
